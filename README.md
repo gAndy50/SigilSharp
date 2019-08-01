@@ -4,7 +4,7 @@ SigilSharp is a wrapper of Sigil for the C# programming language. Sigil is a sim
 #
 
 #Example
-```
+```C#
 namespace SigilSharp
 {
     class Program 
