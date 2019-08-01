@@ -1,6 +1,6 @@
 # SigilSharp
 
-SigilSharp is a wrapper of Sigil for the C# programming language. Sigil is a simple multimedia library for creating simple games or rapid prototyping. Sigil has a small set of commands for making windows and handling graphics, sound and fonts.
+SigilSharp is a wrapper of Sigil for the C# programming language. Sigil is a simple multimedia library for creating simple games or rapid prototyping. Sigil has a small set of commands for making windows and handling graphics, sound and fonts. You will need the following DLLs for this to function correctly, sigil.dll, glew32.dll, OpenAL32.dll, wrap_oal.dll, these DLLs come with the Sigil library package. This wrapper is based off of Sigil 0.9.0.
 
 
 #Example
