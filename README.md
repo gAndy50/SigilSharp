@@ -5,6 +5,13 @@ SigilSharp is a wrapper of Sigil for the C# programming language. Sigil is a sim
 
 #Example
 ```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Runtime.InteropServices;
+
 namespace SigilSharp
 {
     class Program 
