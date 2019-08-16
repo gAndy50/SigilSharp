@@ -1,4 +1,7 @@
-﻿using System;
+//Simple Sigil Example
+//Example written by Andy P. 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
