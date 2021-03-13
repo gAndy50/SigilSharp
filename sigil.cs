@@ -1,4 +1,10 @@
-﻿using System;
+/*Sigil Sharp
+Written by Andy P.
+Copyright (c) 2021
+Sigil: 0.9.0
+Sigil Wrapper for C#*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
