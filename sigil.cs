@@ -1,6 +1,6 @@
 /*Sigil Sharp
 Written by Andy P.
-Copyright (c) 2021
+Copyright (c) 2022
 Sigil: 0.9.0
 Sigil Wrapper for C#*/
 
