@@ -1,6 +1,6 @@
 /*Sigil Sharp
 Written by Andy P.
-Copyright (c) 2025
+Copyright (c) 2026
 Sigil: 0.9.0
 Sigil Wrapper for C#*/
 
@@ -182,3 +182,4 @@ namespace SigilSharp
         }
     }
 }
+
